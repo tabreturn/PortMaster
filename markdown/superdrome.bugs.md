@@ -3,7 +3,7 @@
 Original version by:  
 https://pistachoduck.itch.io/superdrome-bugs (tested with SuperDromerBugs_Linux64.zip)
 
-One day, Simon Pray -- a pest extinguisher living in Mexico, where for some reason pests are nowhere to be found -- receives a call from a luxurious mansion offering him a job. Something doesn't seem right, but Simon doesn't have time to think about it, he needs the money!. Join S.Pray and help him get rid of the pests!
+One day, Simon Pray -- a pest extinguisher living in Mexico, where for some reason pests are nowhere to be found -- receives a call from a luxurious mansion offering him a job. Something doesn't seem right, but Simon doesn't have time to think about it, he needs the money! Join S.Pray and help him get rid of the pests!
 
 
 ## Controls
